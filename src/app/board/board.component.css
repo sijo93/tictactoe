@@ -1,0 +1,8 @@
+.row {
+    clear: both;
+}
+
+.status {
+    color: blue;
+    word-break: break-all;
+}
